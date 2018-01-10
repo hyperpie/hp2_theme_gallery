@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Comic Crazy;Comic Crazy;Theme Gallery;;;;;;;;;;;;;;
+Comic Crazy Main Menu;Comic Crazy Main Menu;Theme Gallery;;;;;;;;;;;;;;
+HP2 Main Menu;HP2 Main Menu;Theme Gallery;;;;;;;;;;;;;;
+HP2 Main Menu 4x3;HP2 Main Menu 4x3;Theme Gallery;;;;;;;;;;;;;;
+HP2 Sub Menu;HP2 Sub Menu;Theme Gallery;;;;;;;;;;;;;;
+HP2 Sub Menu 4x3;HP2 Sub Menu 4x3;Theme Gallery;;;;;;;;;;;;;;
+HP2 Systems Menu;HP2 Systems Menu;Theme Gallery;;;;;;;;;;;;;;
+HP2 Systems Menu 4x3;HP2 Systems Menu 4x3;Theme Gallery;;;;;;;;;;;;;;
+HP2 Systems Menu Boxart;HP2 Systems Menu Boxart;Theme Gallery;;;;;;;;;;;;;;
+HP2 Theme Placeholder;HP2 Theme Placeholder;Theme Gallery;;;;;;;;;;;;;;
+Hursty Blue Main;Hursty Blue Main;Theme Gallery;;;;;;;;;;;;;;
+Hursty Blue System;Hursty Blue System;Theme Gallery;;;;;;;;;;;;;;
+Robospin;Robospin;Theme Gallery;;;;;;;;;;;;;;
+Theme Gallery Update;Theme Gallery Update;Theme Gallery;;;;;;;;;;;;;;
+Unified Snazzy;Unified Snazzy;Theme Gallery;;;;;;;;;;;;;;
