@@ -9,7 +9,5 @@ echo_c()
 
 clear
 echo_c "please press Enter to Continue"
-read
 
-clear
-echo_c "Have a Good Day"
+done
