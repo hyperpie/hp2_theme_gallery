@@ -4,6 +4,8 @@
 # Made for Hyperpie
 # https://www.hyperpie.org
 
+clear
+
 echo_c()
 {
   w=$(stty size | cut -d" " -f2)       # width of the terminal
