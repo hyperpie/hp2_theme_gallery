@@ -14,12 +14,12 @@ sleep 5
   clear
   ast="*********************************************************"
  
-one="Prepare your theme and zip it into a zip file"
-two="Send an email to blah@blah.com with the details of your Theme"
-three="blah blah blah"
-four="Blah Blah Blah"
-five="This is the 5th Line"
-six="This is the 6th Line and so on....."
+one="How to submit?"
+two="1: Upload Your theme to http://www.github.com under your account."
+three="2:Please provide a flyer of your theme that is: 425 x 551 image size 72 resolution saved in .png format"
+four="3.Send info to one of the admins in Project Hyperpie or Retropie Theme Hub Facebook groups"
+five="Info to send is:"
+six="Url Link to your theme on Github, Flyer, Name of your theme"
 blank=" "
 
 
