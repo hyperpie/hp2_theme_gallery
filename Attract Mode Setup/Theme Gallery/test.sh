@@ -13,12 +13,12 @@ echo_c()
 
 clear
 
-echo_c "Hello"
+echo_c "Hello Guys Its Mike Manley"
 echo
-echo_c "More Text"
+echo_c "Test"
 echo
 echo
-echo_c "more text"
+echo_c "Test"
 
 
 
