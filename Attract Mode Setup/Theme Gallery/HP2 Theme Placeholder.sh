@@ -45,7 +45,7 @@ columnas=$(tput cols)
   y=$((($columnas-${#title2})/2))
   x=3
   tput cup $x $y
-  echo "${title}"
+  echo "${title2}"
   echo ""
   y=$((($columnas-${#ast})/2))
   x=4
