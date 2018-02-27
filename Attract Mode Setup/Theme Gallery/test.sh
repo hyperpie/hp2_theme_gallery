@@ -12,7 +12,7 @@ echo_c()
 }
 
 clear
-echo_c "Corey has a small penis"
+
 
 echo
 echo
