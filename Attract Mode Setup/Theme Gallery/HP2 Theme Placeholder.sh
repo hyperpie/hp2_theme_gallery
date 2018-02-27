@@ -9,7 +9,8 @@ echo_c()
 
 
 sleep 5
-  title="How to Submit a Theme"
+  title="Welcome to Hyperpie 2 Theme Gallery"
+  title2="This is a how to submit your theme to Hp2 Theme Gallery"
   clear
   ast="*********************************************************"
  
@@ -35,28 +36,27 @@ columnas=$(tput cols)
   tput cup $x $y
   echo "${title}"
   echo ""
-  y=$((($columnas-${#ast})/2))
+  y=$((($columnas-${#blank})/2))
   x=2
+  tput cup $x $y
+  echo "${blank}"
+  echo -e "\n\n"
+  echo ""
+  y=$((($columnas-${#title2})/2))
+  x=3
+  tput cup $x $y
+  echo "${title}"
+  echo ""
+  y=$((($columnas-${#ast})/2))
+  x=4
   tput cup $x $y
   echo "${ast}"
   echo ""
   echo ""
   y=$((($columnas-${#blank})/2))
-  x=3
-  tput cup $x $y
-  echo "${blank}"
-  echo -e "\n\n"
-  echo ""
-  y=$((($columnas-${#blank})/2))
-  x=4
-  tput cup $x $y
-  echo "${blank}"
-  echo -e "\n\n"
-  echo ""
-  y=$((($columnas-${#one})/2))
   x=5
   tput cup $x $y
-  echo "${one}"
+  echo "${blank}"
   echo -e "\n\n"
   echo ""
   y=$((($columnas-${#blank})/2))
@@ -65,11 +65,11 @@ columnas=$(tput cols)
   echo "${blank}"
   echo -e "\n\n"
   echo ""
-  y=$((($columnas-${#two})/2))
+  y=$((($columnas-${#one})/2))
   x=7
   tput cup $x $y
-  echo "${two}"
-  echo ""
+  echo "${one}"
+  echo -e "\n\n"
   echo ""
   y=$((($columnas-${#blank})/2))
   x=8
@@ -77,10 +77,10 @@ columnas=$(tput cols)
   echo "${blank}"
   echo -e "\n\n"
   echo ""
-  y=$((($columnas-${#three})/2))
+  y=$((($columnas-${#two})/2))
   x=9
   tput cup $x $y
-  echo "${three}"
+  echo "${two}"
   echo ""
   echo ""
   y=$((($columnas-${#blank})/2))
@@ -89,11 +89,11 @@ columnas=$(tput cols)
   echo "${blank}"
   echo -e "\n\n"
   echo ""
-  y=$((($columnas-${#four})/2))
+  y=$((($columnas-${#three})/2))
   x=11
   tput cup $x $y
-  echo "${four}"
-  echo "" 
+  echo "${three}"
+  echo ""
   echo ""
   y=$((($columnas-${#blank})/2))
   x=12
@@ -101,20 +101,32 @@ columnas=$(tput cols)
   echo "${blank}"
   echo -e "\n\n"
   echo ""
-  y=$((($columnas-${#five})/2))
+  y=$((($columnas-${#four})/2))
   x=13
   tput cup $x $y
-  echo "${five}"
-  echo ""
+  echo "${four}"
+  echo "" 
   echo ""
   y=$((($columnas-${#blank})/2))
   x=14
   tput cup $x $y
   echo "${blank}"
   echo -e "\n\n"
+  echo ""
+  y=$((($columnas-${#five})/2))
+  x=15
+  tput cup $x $y
+  echo "${five}"
+  echo ""
+  echo ""
+  y=$((($columnas-${#blank})/2))
+  x=16
+  tput cup $x $y
+  echo "${blank}"
+  echo -e "\n\n"
   echo ""  
   y=$((($columnas-${#six})/2))
-  x=15
+  x=17
   tput cup $x $y
   echo "${six}"
   echo ""
