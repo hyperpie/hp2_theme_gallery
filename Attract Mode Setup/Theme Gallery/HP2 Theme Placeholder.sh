@@ -132,12 +132,9 @@ columnas=$(tput cols)
   echo ""
   echo ""
 
-echo_c "Hello"
-echo
-echo_c "More Text"
 echo
 echo
-echo_c "more text"
+echo_c "Thank You"
 
 
 
@@ -145,6 +142,7 @@ echo_c "more text"
 
 
 
-sleep 10
+
+sleep 20
 clear
 
