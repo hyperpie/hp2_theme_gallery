@@ -1,7 +1,6 @@
 #!/bin/bash
-# This script will switch between a Simple and Nested layout
 # Author: Mik McLean
-# Made for Hyperpie
+# Made for Hyperpie 2
 # https://www.hyperpie.org
 
 rm -rf /home/pi/.attract/Attract\ Mode\ Setup/Theme\ Gallery/flyers
